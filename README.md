@@ -50,7 +50,7 @@ $ cat profile.json
 
 ---
 <div align="center">
-  <img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtzZHE2bXBsdXNsdGJuOTlrc2hjYmd5aWQ4ejEwcWJsaWY2YW9qciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif)" width="400" alt="coding gif"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtzZHE2bXBsdXNsdGJuOTlrc2hjYmd5aWQ4ejEwcWJsaWY2YW9qciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="480" alt="coding gif"/>
 </div>
 
 ## 🚀 Projects
