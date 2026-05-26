@@ -115,6 +115,7 @@ Won first place in a university presentation competition
 | **University of East London** | Computer & AI Engineering — Dual Degree |
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=belalhossam1010&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
 
 ---
 
