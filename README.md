@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  ![Cairo](https://img.shields.io/badge/📍_Maadi,_Cairo-Egypt-red?style=flat-square&labelColor=161b22&color=f78166)
+  ![Cairo](https://img.shields.io/badge/📍_Cairo-Egypt-red?style=flat-square&labelColor=161b22&color=f78166)
   ![Dual Degree](https://img.shields.io/badge/🎓_Dual_Degree-Ain_Shams_×_UEL-blue?style=flat-square&labelColor=161b22&color=58a6ff)
   ![Field](https://img.shields.io/badge/🤖_CS_&_AI-Engineering-purple?style=flat-square&labelColor=161b22&color=d2a8ff)
 
@@ -101,17 +101,9 @@ Won first place in a university presentation competition on ocean mysteries.
 ## ⚡ Beyond the Code
 
 ```
-⚽ Football
-   ├── Club:    Liverpool FC 🔴
-   ├── Local:   Al Ahly 🔴
-   └── Follows: EPL · International Tournaments · Egyptian Premier League
-
 🎮 Gaming
    ├── Genres:  Action-Adventure · Sports
    └── Favs:   God of War · Ghost of Tsushima · FC (FIFA) series
-
-👕 Style: Streetwear — Baggy / Relaxed-fit denim in charcoal & dark grey
-   └── Local brands: Fourteen · Novencci · In-Game · Dokan Jeans
 ```
 
 ---
