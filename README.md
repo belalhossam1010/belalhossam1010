@@ -49,6 +49,9 @@ $ cat profile.json
 > 📜 **Certified:** Git & GitHub Professional Certification — *Al Madrasa*
 
 ---
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="coding gif"/>
+</div>
 
 ## 🚀 Projects
 
@@ -116,8 +119,6 @@ Won first place in a university presentation competition
 
 ---
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-name: Generate Snake on: schedule: [{cron: "0 0 * * *"}] workflow_dispatch: jobs: snake: runs-on: ubuntu-latest steps: - uses: Platane/snk@v3 with: github_user_name:  outputs: belalhossam1010 | dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg?palette=github-dark - uses: crazy-max/ghaction-github-pages@v3 with: target_branch: output build_dir: dist env: GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ---
 
