@@ -30,6 +30,8 @@ $ cat profile.json
 }
 ```
 
+> *"Technology isn't just a field of study — it's a lifelong pursuit of understanding the **'how'** behind the next big innovation. I don't wait for opportunities; I pursue them. Learning something entirely new is the best way to sharpen perspective."*
+
 ---
 
 ## 🛠️ Tech Stack
