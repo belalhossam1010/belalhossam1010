@@ -80,7 +80,7 @@ A console-based pharmacy management system built in C++ with persistent file sto
 - `lowstockalert()` — proactive monitoring tool that fires automatically on every manager login, scanning the entire inventory and triggering a visual warning for any medicine below 5 units
 - `lowstock()` — detailed companion report listing every understocked item with exact remaining quantities for precise restocking decisions
 - `logout()` — clean session termination back to the main menu
-
+> 🔗 [GitHub Repository](https://github.com/belalhossam1010/smart_pharmacy_system) 
 ---
 
 ### 🤖 Autonomous Micromouse Maze-Solver
@@ -93,8 +93,7 @@ Built an autonomous robot capable of navigating and solving mazes — pathfindin
 ### 🥇 "The Unsolved Mysteries of the Sea" — *1st Place*
 > Presentation Competition · June 2025
 
-Won first place in a university presentation competition on ocean mysteries.  
-*Supervised by Prof. Mohamed El-Banna & TA Miriam Hani.*
+Won first place in a university presentation competition
 
 ---
 
@@ -116,14 +115,6 @@ Won first place in a university presentation competition on ocean mysteries.
 | **University of East London** | Computer & AI Engineering — Dual Degree |
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff" alt="GitHub Streak" />
-</div>
 
 ---
 
