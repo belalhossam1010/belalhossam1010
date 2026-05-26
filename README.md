@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Belal.+%F0%9F%91%8B;CS+%26+AI+Engineering+Student;Building+things+that+work+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Belal.+%F0%9F%91%8B;Computer+%26+AI+Engineering+Student;Building+things+that+work+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
